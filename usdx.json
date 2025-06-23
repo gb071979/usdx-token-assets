@@ -1,0 +1,8 @@
+{
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "decimals": 6,
+  "address": "0x3F88BCa3f673EaC9606b43192f20A673B463d861",
+  "chainId": 1,
+  "logoURI": "https://raw.githubusercontent.com/gb071979/usdx-token-assets/main/logo.png"
+}
