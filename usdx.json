@@ -1,8 +1,19 @@
 {
-  "name": "Tether USD",
-  "symbol": "USDT",
-  "decimals": 6,
-  "address": "0x3F88BCa3f673EaC9606b43192f20A673B463d861",
-  "chainId": 1,
-  "logoURI": "https://raw.githubusercontent.com/gb071979/usdx-token-assets/main/logo.png"
+  "name": "USDx Token List",
+  "timestamp": "2024-06-22T00:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x3F88BCa3f673EaC9606b43192f20A673B463d861",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/gb071979/usdx-token-assets/main/tether-usdt-logo.png"
+    }
+  ]
 }
